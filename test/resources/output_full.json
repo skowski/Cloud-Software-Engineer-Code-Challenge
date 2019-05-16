@@ -1,0 +1,586 @@
+[ {
+  "label" : "Sortiment - Alter - Baby & Kleinkind - 0-6 Monate",
+  "url" : "http://www.mytoys.de/0-6-months/"
+}, {
+  "label" : "Sortiment - Alter - Baby & Kleinkind - 7-12 Monate",
+  "url" : "http://www.mytoys.de/7-12-months/"
+}, {
+  "label" : "Sortiment - Alter - Baby & Kleinkind - 13-24 Monate",
+  "url" : "http://www.mytoys.de/13-24-months/"
+}, {
+  "label" : "Sortiment - Alter - Kindergarten - 2-3 Jahre",
+  "url" : "http://www.mytoys.de/24-47-months/"
+}, {
+  "label" : "Sortiment - Alter - Kindergarten - 4-5 Jahre",
+  "url" : "http://www.mytoys.de/48-71-months/"
+}, {
+  "label" : "Sortiment - Alter - Grundschule - 6-7 Jahre",
+  "url" : "http://www.mytoys.de/72-95-months/"
+}, {
+  "label" : "Sortiment - Alter - Grundschule - 8-9 Jahre",
+  "url" : "http://www.mytoys.de/96-119-months/"
+}, {
+  "label" : "Sortiment - Alter - Teenager - 10-12 Jahre",
+  "url" : "http://www.mytoys.de/120-155-months/"
+}, {
+  "label" : "Sortiment - Alter - Teenager - \u00DCber 12 Jahre",
+  "url" : "http://www.mytoys.de/over-156-months/"
+}, {
+  "label" : "Sortiment - Kategorien - Baby & Schwangerschaft - Alles von Babymode",
+  "url" : "http://www.mytoys.de/baby-schwangerschaft/babymode/"
+}, {
+  "label" : "Sortiment - Kategorien - Baby & Schwangerschaft - Alles f\u00FCr Unterwegs",
+  "url" : "http://www.mytoys.de/baby-schwangerschaft/alles-fuer-unterwegs/"
+}, {
+  "label" : "Sortiment - Kategorien - Baby & Schwangerschaft - Babyalben & Kreatives",
+  "url" : "http://www.mytoys.de/baby-schwangerschaft/babyalben-kreatives/"
+}, {
+  "label" : "Sortiment - Kategorien - Baby & Schwangerschaft - Babyern\u00E4hrung",
+  "url" : "http://www.mytoys.de/baby-schwangerschaft/babyernaehrung/"
+}, {
+  "label" : "Sortiment - Kategorien - Baby & Schwangerschaft - Babym\u00F6bel",
+  "url" : "http://www.mytoys.de/baby-schwangerschaft/babymoebel/"
+}, {
+  "label" : "Sortiment - Kategorien - Baby & Schwangerschaft - Babypflege",
+  "url" : "http://www.mytoys.de/baby-schwangerschaft/babypflege/"
+}, {
+  "label" : "Sortiment - Kategorien - Baby & Schwangerschaft - Babyschlaf",
+  "url" : "http://www.mytoys.de/baby-schwangerschaft/babyschlaf/"
+}, {
+  "label" : "Sortiment - Kategorien - Baby & Schwangerschaft - Babyspielzeug",
+  "url" : "http://www.mytoys.de/baby-schwangerschaft/babyspielzeug/"
+}, {
+  "label" : "Sortiment - Kategorien - Baby & Schwangerschaft - Kindersitze & Babyschalen",
+  "url" : "http://www.mytoys.de/baby-schwangerschaft/kindersitze-babyschalen/"
+}, {
+  "label" : "Sortiment - Kategorien - Baby & Schwangerschaft - Kinderwagen & Zubeh\u00F6r",
+  "url" : "http://www.mytoys.de/baby-schwangerschaft/kinderwagen-zubehoer/"
+}, {
+  "label" : "Sortiment - Kategorien - Baby & Schwangerschaft - Schnuller & Zubeh\u00F6r",
+  "url" : "http://www.mytoys.de/baby-schwangerschaft/schnuller-zubehoer/"
+}, {
+  "label" : "Sortiment - Kategorien - Baby & Schwangerschaft - Sicherheit f\u00FCr's Baby",
+  "url" : "http://www.mytoys.de/baby-schwangerschaft/sicherheit-fuers-baby/"
+}, {
+  "label" : "Sortiment - Kategorien - Baby & Schwangerschaft - Stillen & Pflege f\u00FCr die Mama",
+  "url" : "http://www.mytoys.de/baby-schwangerschaft/stillen-pflege-fuer-die-mama/"
+}, {
+  "label" : "Sortiment - Kategorien - Baby & Schwangerschaft - Stillmode",
+  "url" : "http://www.mytoys.de/baby-schwangerschaft/stillmode/"
+}, {
+  "label" : "Sortiment - Kategorien - Baby & Schwangerschaft - Umstandsmode",
+  "url" : "http://www.mytoys.de/baby-schwangerschaft/umstandsmode/"
+}, {
+  "label" : "Sortiment - Kategorien - Spielzeug & Spiele - Alles von Spielzeug & Spiele",
+  "url" : "http://www.mytoys.de/spielzeug-spiele/"
+}, {
+  "label" : "Sortiment - Kategorien - Spielzeug & Spiele - Autos, Fahrzeuge & Flieger",
+  "url" : "http://www.mytoys.de/spielzeug-spiele/autos-fahrzeuge-flieger/"
+}, {
+  "label" : "Sortiment - Kategorien - Spielzeug & Spiele - Baby- & Kleinkindspielzeug",
+  "url" : "http://www.mytoys.de/spielzeug-spiele/baby-kleinkindspielzeug/"
+}, {
+  "label" : "Sortiment - Kategorien - Spielzeug & Spiele - Bauen & Konstruieren",
+  "url" : "http://www.mytoys.de/spielzeug-spiele/bauen-konstruieren/"
+}, {
+  "label" : "Sortiment - Kategorien - Spielzeug & Spiele - Experimentieren & Entdecken",
+  "url" : "http://www.mytoys.de/spielzeug-spiele/experimentieren-entdecken/"
+}, {
+  "label" : "Sortiment - Kategorien - Spielzeug & Spiele - Kinderfahrzeuge",
+  "url" : "http://www.mytoys.de/spielzeug-spiele/kinderfahrzeuge/"
+}, {
+  "label" : "Sortiment - Kategorien - Spielzeug & Spiele - Kinderparty",
+  "url" : "http://www.mytoys.de/spielzeug-spiele/kinderparty-zubehoer/"
+}, {
+  "label" : "Sortiment - Kategorien - Spielzeug & Spiele - Kost\u00FCme & Rollenspielzeug",
+  "url" : "http://www.mytoys.de/spielzeug-spiele/kostueme-rollenspielzeug/"
+}, {
+  "label" : "Sortiment - Kategorien - Spielzeug & Spiele - Kuscheltiere & Teddys",
+  "url" : "http://www.mytoys.de/spielzeug-spiele/kuscheltiere-teddys/"
+}, {
+  "label" : "Sortiment - Kategorien - Spielzeug & Spiele - K\u00FCche & Kaufladen",
+  "url" : "http://www.mytoys.de/spielzeug-spiele/kueche-kaufladen/"
+}, {
+  "label" : "Sortiment - Kategorien - Spielzeug & Spiele - Lernspielzeug",
+  "url" : "http://www.mytoys.de/spielzeug-spiele/lernspielzeug/"
+}, {
+  "label" : "Sortiment - Kategorien - Spielzeug & Spiele - Musikinstrumente",
+  "url" : "http://www.mytoys.de/spielzeug-spiele/musikinstrumente/"
+}, {
+  "label" : "Sortiment - Kategorien - Spielzeug & Spiele - Puppen & Puppenzubeh\u00F6r",
+  "url" : "http://www.mytoys.de/spielzeug-spiele/puppen-puppenzubehoer/"
+}, {
+  "label" : "Sortiment - Kategorien - Spielzeug & Spiele - Puzzle",
+  "url" : "http://www.mytoys.de/spielzeug-spiele/puzzle/"
+}, {
+  "label" : "Sortiment - Kategorien - Spielzeug & Spiele - Spiele",
+  "url" : "http://www.mytoys.de/spielzeug-spiele/spiele/"
+}, {
+  "label" : "Sortiment - Kategorien - Mode & Schuhe - Alles von Mode & Schuhe",
+  "url" : "http://www.mytoys.de/mode-schuhe/"
+}, {
+  "label" : "Sortiment - Kategorien - Mode & Schuhe - Accessoires",
+  "url" : "http://www.mytoys.de/mode-schuhe/accessoires/"
+}, {
+  "label" : "Sortiment - Kategorien - Mode & Schuhe - Bademode",
+  "url" : "http://www.mytoys.de/mode-schuhe/bademode/"
+}, {
+  "label" : "Sortiment - Kategorien - Mode & Schuhe - Hosen, Jeans & Leggings",
+  "url" : "http://www.mytoys.de/mode-schuhe/hosen-jeans-leggings/"
+}, {
+  "label" : "Sortiment - Kategorien - Mode & Schuhe - Jacken & M\u00E4ntel",
+  "url" : "http://www.mytoys.de/mode-schuhe/jacken-maentel/"
+}, {
+  "label" : "Sortiment - Kategorien - Mode & Schuhe - Kleider & R\u00F6cke",
+  "url" : "http://www.mytoys.de/mode-schuhe/kleider-roecke/"
+}, {
+  "label" : "Sortiment - Kategorien - Mode & Schuhe - M\u00FCtzen, H\u00FCte & Caps",
+  "url" : "http://www.mytoys.de/mode-schuhe/muetzen-huete-caps/"
+}, {
+  "label" : "Sortiment - Kategorien - Mode & Schuhe - Oberteile",
+  "url" : "http://www.mytoys.de/mode-schuhe/oberteile/"
+}, {
+  "label" : "Sortiment - Kategorien - Mode & Schuhe - Regenbekleidung",
+  "url" : "http://www.mytoys.de/mode-schuhe/regenbekleidung/"
+}, {
+  "label" : "Sortiment - Kategorien - Mode & Schuhe - Rucks\u00E4cke & Taschen",
+  "url" : "http://www.mytoys.de/mode-schuhe/rucksaecke-taschen/"
+}, {
+  "label" : "Sortiment - Kategorien - Mode & Schuhe - Schnee- & Skibeleidung",
+  "url" : "http://www.mytoys.de/mode-schuhe/schnee-skibekleidung/"
+}, {
+  "label" : "Sortiment - Kategorien - Mode & Schuhe - Kinderschuhe",
+  "url" : "http://www.mytoys.de/mode-schuhe/schuhe/"
+}, {
+  "label" : "Sortiment - Kategorien - Mode & Schuhe - Sportbekleidung",
+  "url" : "http://www.mytoys.de/mode-schuhe/sportbekleidung/"
+}, {
+  "label" : "Sortiment - Kategorien - Mode & Schuhe - Str\u00FCmpfe & Strumpfhosen",
+  "url" : "http://www.mytoys.de/mode-schuhe/struempfe-strumpfhosen/"
+}, {
+  "label" : "Sortiment - Kategorien - Mode & Schuhe - W\u00E4sche",
+  "url" : "http://www.mytoys.de/mode-schuhe/waesche/"
+}, {
+  "label" : "Sortiment - Kategorien - Basteln & Malen - Alles von Basteln & Malen",
+  "url" : "http://www.mytoys.de/basteln-malen/"
+}, {
+  "label" : "Sortiment - Kategorien - Basteln & Malen - Bastel- & Kreativsets",
+  "url" : "http://www.mytoys.de/basteln-malen/bastel-kreativsets/"
+}, {
+  "label" : "Sortiment - Kategorien - Basteln & Malen - Bastelb\u00FCcher",
+  "url" : "http://www.mytoys.de/basteln-malen/bastelbuecher/"
+}, {
+  "label" : "Sortiment - Kategorien - Basteln & Malen - Bastelmaterial & Zubeh\u00F6r",
+  "url" : "http://www.mytoys.de/basteln-malen/bastelmaterial-zubehoer/"
+}, {
+  "label" : "Sortiment - Kategorien - Basteln & Malen - Papeterie",
+  "url" : "http://www.mytoys.de/basteln-malen/papeterie/"
+}, {
+  "label" : "Sortiment - Kategorien - Basteln & Malen - Stempel & Sticker",
+  "url" : "http://www.mytoys.de/basteln-malen/stempel-sticker/"
+}, {
+  "label" : "Sortiment - Kategorien - Basteln & Malen - Stifte & Farben",
+  "url" : "http://www.mytoys.de/basteln-malen/stifte-farben/"
+}, {
+  "label" : "Sortiment - Kategorien - Multimedia & B\u00FCcher - Alles von Multimedia & B\u00FCcher",
+  "url" : "http://www.mytoys.de/multimedia-buecher/"
+}, {
+  "label" : "Sortiment - Kategorien - Multimedia & B\u00FCcher - B\u00FCcher",
+  "url" : "http://www.mytoys.de/multimedia-buecher/buecher/"
+}, {
+  "label" : "Sortiment - Kategorien - Multimedia & B\u00FCcher - CD-Player, MP3-Player & Anlagen",
+  "url" : "http://www.mytoys.de/multimedia-buecher/cd-player-mp3-player-anlagen/"
+}, {
+  "label" : "Sortiment - Kategorien - Multimedia & B\u00FCcher - CDs & MCs",
+  "url" : "http://www.mytoys.de/multimedia-buecher/cds-mcs/"
+}, {
+  "label" : "Sortiment - Kategorien - Multimedia & B\u00FCcher - DVDs & BLU-RAYs",
+  "url" : "http://www.mytoys.de/multimedia-buecher/dvds-blu-rays/"
+}, {
+  "label" : "Sortiment - Kategorien - Multimedia & B\u00FCcher - Foto-& Videokameras",
+  "url" : "http://www.mytoys.de/multimedia-buecher/foto-videokameras/"
+}, {
+  "label" : "Sortiment - Kategorien - Multimedia & B\u00FCcher - Konsolen & PC Software",
+  "url" : "http://www.mytoys.de/multimedia-buecher/konsolen-pc-zubehoer/"
+}, {
+  "label" : "Sortiment - Kategorien - Multimedia & B\u00FCcher - Tablet PCs & Smartphones",
+  "url" : "http://www.mytoys.de/multimedia-buecher/tablet-pcs-smartphones/"
+}, {
+  "label" : "Sortiment - Kategorien - Multimedia & B\u00FCcher - Videospiele (PC & Konsole)",
+  "url" : "http://www.mytoys.de/multimedia-buecher/videospiele-pc-konsole/"
+}, {
+  "label" : "Sortiment - Kategorien - Multimedia & B\u00FCcher - Wecker",
+  "url" : "http://www.mytoys.de/multimedia-buecher/wecker/"
+}, {
+  "label" : "Sortiment - Kategorien - Multimedia & B\u00FCcher - Zubeh\u00F6r",
+  "url" : "http://www.mytoys.de/multimedia-buecher/zubehoer/"
+}, {
+  "label" : "Sortiment - Kategorien - Schule & Lernen - Alles von Schule & Lernen",
+  "url" : "http://www.mytoys.de/schule-lernen/"
+}, {
+  "label" : "Sortiment - Kategorien - Schule & Lernen - Lernspiele & Lernhilfen",
+  "url" : "http://www.mytoys.de/schule-lernen/lernspiele-lernhilfen/"
+}, {
+  "label" : "Sortiment - Kategorien - Schule & Lernen - Schreibtische & -utensilien",
+  "url" : "http://www.mytoys.de/schule-lernen/schreibtische-utensilien/"
+}, {
+  "label" : "Sortiment - Kategorien - Schule & Lernen - Schulbedarf",
+  "url" : "http://www.mytoys.de/schule-lernen/schulbedarf/"
+}, {
+  "label" : "Sortiment - Kategorien - Schule & Lernen - Schulb\u00FCcher",
+  "url" : "http://www.mytoys.de/schule-lernen/schulbuecher/"
+}, {
+  "label" : "Sortiment - Kategorien - Schule & Lernen - Schulranzen & Zubeh\u00F6r",
+  "url" : "http://www.mytoys.de/schule-lernen/schulranzen-zubehoer/"
+}, {
+  "label" : "Sortiment - Kategorien - Schule & Lernen - Stifte & Schreibger\u00E4te",
+  "url" : "http://www.mytoys.de/schule-lernen/stifte-schreibgeraete/"
+}, {
+  "label" : "Sortiment - Kategorien - Sport & Garten - Alles von Sport & Garten",
+  "url" : "http://www.mytoys.de/sport-garten/"
+}, {
+  "label" : "Sortiment - Kategorien - Sport & Garten - Camping & Outdoor",
+  "url" : "http://www.mytoys.de/sport-garten/camping-outdoor/"
+}, {
+  "label" : "Sortiment - Kategorien - Sport & Garten - Fahrr\u00E4der & Zubeh\u00F6r",
+  "url" : "http://www.mytoys.de/sport-garten/fahrraeder-zubehoer/"
+}, {
+  "label" : "Sortiment - Kategorien - Sport & Garten - Gartenm\u00F6bel & Accessoires",
+  "url" : "http://www.mytoys.de/sport-garten/gartenmoebel-accessoires/"
+}, {
+  "label" : "Sortiment - Kategorien - Sport & Garten - Gartenspielzeug",
+  "url" : "http://www.mytoys.de/sport-garten/gartenspielzeug/"
+}, {
+  "label" : "Sortiment - Kategorien - Sport & Garten - Kinderfahrzeuge",
+  "url" : "http://www.mytoys.de/sport-garten/kinderfahrzeuge/"
+}, {
+  "label" : "Sortiment - Kategorien - Sport & Garten - Kletter- und Spielger\u00E4te",
+  "url" : "http://www.mytoys.de/sport-garten/kletter-und-spielgeraete/"
+}, {
+  "label" : "Sortiment - Kategorien - Sport & Garten - Sand- & Wasserspa\u00DF",
+  "url" : "http://www.mytoys.de/sport-garten/sand-wasserspass/"
+}, {
+  "label" : "Sortiment - Kategorien - Sport & Garten - Sportbekleidung & Sportschuhe",
+  "url" : "http://www.mytoys.de/mode-schuhe/sportbekleidung/"
+}, {
+  "label" : "Sortiment - Kategorien - Sport & Garten - Sportzubeh\u00F6r & Sporttaschen",
+  "url" : "http://www.mytoys.de/sport-garten/sportzubehoer-sporttaschen/"
+}, {
+  "label" : "Sortiment - Kategorien - Kinderzimmer & Wohnen - Alles von Kinderzimmer & Wohnen",
+  "url" : "http://www.mytoys.de/kinderzimmer-wohnen/"
+}, {
+  "label" : "Sortiment - Kategorien - Kinderzimmer & Wohnen - Badaccessoires",
+  "url" : "http://www.mytoys.de/kinderzimmer-wohnen/badaccessoires/"
+}, {
+  "label" : "Sortiment - Kategorien - Kinderzimmer & Wohnen - Betten & Zubeh\u00F6r",
+  "url" : "http://www.mytoys.de/kinderzimmer-wohnen/betten-zubehoer/"
+}, {
+  "label" : "Sortiment - Kategorien - Kinderzimmer & Wohnen - Geschirr & Besteck",
+  "url" : "http://www.mytoys.de/kinderzimmer-wohnen/geschirr-besteck/\""
+}, {
+  "label" : "Sortiment - Kategorien - Kinderzimmer & Wohnen - Haushaltshelfer",
+  "url" : "http://www.mytoys.de/kinderzimmer-wohnen/haushaltshelfer/"
+}, {
+  "label" : "Sortiment - Kategorien - Kinderzimmer & Wohnen - Heimtextilien",
+  "url" : "http://www.mytoys.de/kinderzimmer-wohnen/heimtextilien/"
+}, {
+  "label" : "Sortiment - Kategorien - Kinderzimmer & Wohnen - Kleinm\u00F6bel",
+  "url" : "http://www.mytoys.de/kinderzimmer-wohnen/kleinmoebel/"
+}, {
+  "label" : "Sortiment - Kategorien - Kinderzimmer & Wohnen - Komplettzimmer",
+  "url" : "http://www.mytoys.de/kinderzimmer-wohnen/komplettzimmer/"
+}, {
+  "label" : "Sortiment - Kategorien - Kinderzimmer & Wohnen - Leuchten",
+  "url" : "http://www.mytoys.de/kinderzimmer-wohnen/leuchten/"
+}, {
+  "label" : "Sortiment - Kategorien - Kinderzimmer & Wohnen - Matratzen & Federholzrahmen",
+  "url" : "http://www.mytoys.de/kinderzimmer-wohnen/matratzen-federholzrahmen/"
+}, {
+  "label" : "Sortiment - Kategorien - Kinderzimmer & Wohnen - Ordnen & Aufbewahren",
+  "url" : "http://www.mytoys.de/kinderzimmer-wohnen/ordnen-aufbewahren/"
+}, {
+  "label" : "Sortiment - Kategorien - Kinderzimmer & Wohnen - Schr\u00E4nke & Zubeh\u00F6r",
+  "url" : "http://www.mytoys.de/kinderzimmer-wohnen/schraenke-zubehoer/"
+}, {
+  "label" : "Sortiment - Kategorien - Kinderzimmer & Wohnen - Schulm\u00F6bel",
+  "url" : "http://www.mytoys.de/kinderzimmer-wohnen/schulmoebel/"
+}, {
+  "label" : "Sortiment - Kategorien - Kinderzimmer & Wohnen - Tische & Sitzm\u00F6bel",
+  "url" : "http://www.mytoys.de/kinderzimmer-wohnen/sitzmoebel/"
+}, {
+  "label" : "Sortiment - Kategorien - Kinderzimmer & Wohnen - Wohndeko & Accessoires",
+  "url" : "http://www.mytoys.de/kinderzimmer-wohnen/wohndeko-accessoires/"
+}, {
+  "label" : "Sortiment - Lieblingsstars - Paw Patrol",
+  "url" : "http://www.mytoys.de/paw-patrol/"
+}, {
+  "label" : "Sortiment - Lieblingsstars - Disney Cars",
+  "url" : "http://www.mytoys.de/disney-cars/"
+}, {
+  "label" : "Sortiment - Lieblingsstars - Dragons",
+  "url" : "http://www.mytoys.de/dragons/"
+}, {
+  "label" : "Sortiment - Lieblingsstars - Eisk\u00F6nigin",
+  "url" : "http://www.mytoys.de/disney-die-eiskoenigin/"
+}, {
+  "label" : "Sortiment - Lieblingsstars - Feuerwehrmann Sam",
+  "url" : "http://www.mytoys.de/feuerwehrmann-sam/"
+}, {
+  "label" : "Sortiment - Lieblingsstars - Hello Kitty",
+  "url" : "http://www.mytoys.de/hello-kitty/"
+}, {
+  "label" : "Sortiment - Lieblingsstars - Marvel",
+  "url" : "http://www.mytoys.de/marvel-avengers_marvel-heroes/"
+}, {
+  "label" : "Sortiment - Lieblingsstars - MiaMe",
+  "url" : "http://www.mytoys.de/mia-me/"
+}, {
+  "label" : "Sortiment - Lieblingsstars - Minnie Mouse",
+  "url" : "http://www.mytoys.de/disney-minnie-mouse/"
+}, {
+  "label" : "Sortiment - Lieblingsstars - Minions",
+  "url" : "http://www.mytoys.de/minions/"
+}, {
+  "label" : "Sortiment - Lieblingsstars - Monster High",
+  "url" : "http://www.mytoys.de/monster-high/"
+}, {
+  "label" : "Sortiment - Lieblingsstars - Top Model",
+  "url" : "http://www.mytoys.de/topmodel/"
+}, {
+  "label" : "Sortiment - Lieblingsstars - Disney Princess",
+  "url" : "http://www.mytoys.de/license-disney-princess/"
+}, {
+  "label" : "Sortiment - Lieblingsstars - Star Wars",
+  "url" : "http://www.mytoys.de/star-wars/"
+}, {
+  "label" : "Sortiment - Lieblingsstars - Violetta",
+  "url" : "http://www.mytoys.de/disney-violetta/"
+}, {
+  "label" : "Sortiment - Lieblingsstars - WinniePuuh",
+  "url" : "http://www.mytoys.de/disney-winnie-puuh/"
+}, {
+  "label" : "Sortiment - Lieblingsstars - Yakari",
+  "url" : "http://www.mytoys.de/yakari/"
+}, {
+  "label" : "Sortiment - Top-Marken - 4YOU",
+  "url" : "http://www.mytoys.de/4you/"
+}, {
+  "label" : "Sortiment - Top-Marken - adidas",
+  "url" : "http://www.mytoys.de/adidas_adidas-neo_adidas-performance/"
+}, {
+  "label" : "Sortiment - Top-Marken - Barbie",
+  "url" : "http://www.mytoys.de/license-barbie/"
+}, {
+  "label" : "Sortiment - Top-Marken - MaxiCosi",
+  "url" : "http://www.mytoys.de/maxi-cosi/"
+}, {
+  "label" : "Sortiment - Top-Marken - Nintendo",
+  "url" : "http://www.mytoys.de/nintendo/"
+}, {
+  "label" : "Sortiment - Top-Marken - Playmobil",
+  "url" : "http://www.mytoys.de/playmobil-sub/"
+}, {
+  "label" : "Sortiment - Top-Marken - Fisher-Price",
+  "url" : "http://www.mytoys.de/fisher-price/"
+}, {
+  "label" : "Sortiment - Top-Marken - Ravensburger",
+  "url" : "http://www.mytoys.de/ravensburger/"
+}, {
+  "label" : "Sortiment - Top-Marken - vTech",
+  "url" : "http://www.mytoys.de/vtech/"
+}, {
+  "label" : "Sortiment - Top-Marken - Stabilo",
+  "url" : "http://www.mytoys.de/stabilo/"
+}, {
+  "label" : "Sortiment - Top-Marken - Stokke",
+  "url" : "http://www.mytoys.de/stokke/"
+}, {
+  "label" : "Sortiment - Top-Marken - Lego",
+  "url" : "http://www.mytoys.de/lego-sub/"
+}, {
+  "label" : "Sortiment - Top-Marken - sOliver",
+  "url" : "http://www.mytoys.de/s-oliver/"
+}, {
+  "label" : "Sortiment - Top-Marken - Hudora",
+  "url" : "http://www.mytoys.de/hudora/"
+}, {
+  "label" : "Sortiment - Top-Marken - Jack Wolfskin",
+  "url" : "http://www.mytoys.de/jack-wolfskin/"
+}, {
+  "label" : "Sortiment - Top-Marken - Spiegelburg",
+  "url" : "http://www.mytoys.de/die-spiegelburg/"
+}, {
+  "label" : "Sortiment - Top-Marken - Esprit",
+  "url" : "ttp://www.mytoys.de/esprit/"
+}, {
+  "label" : "Schn\u00E4ppchen - Alle Angebote im \u00DCberblick",
+  "url" : "http://www.mytoys.de/sale/"
+}, {
+  "label" : "Schn\u00E4ppchen - Baby Schn\u00E4ppchen",
+  "url" : "http://www.mytoys.de/baby-schwangerschaft/sale/"
+}, {
+  "label" : "Schn\u00E4ppchen - Spielzeug & Spiele Sale",
+  "url" : "http://www.mytoys.de/spielzeug-spiele/sale/"
+}, {
+  "label" : "Schn\u00E4ppchen - Mode & Schuhe Sale",
+  "url" : "http://www.mytoys.de/mode-schuhe/sale/"
+}, {
+  "label" : "Schn\u00E4ppchen - Artikel aus der Werbung",
+  "url" : "http://www.mytoys.de/14e/"
+}, {
+  "label" : "Schn\u00E4ppchen - Knaller der Woche",
+  "url" : "http://www.mytoys.de/mkt/knaller-der-woche"
+}, {
+  "label" : "Beratung & Inspiration - Geschenketipps - Geschenketipps f\u00FCr M\u00E4dchen",
+  "url" : "http://www.mytoys.de/weiblich/geschenke/"
+}, {
+  "label" : "Beratung & Inspiration - Geschenketipps - Geschenketipps f\u00FCr Jungen",
+  "url" : "http://www.mytoys.de/maennlich/geschenke/"
+}, {
+  "label" : "Beratung & Inspiration - Ratgeber - Alle Ratgeber",
+  "url" : "http://www.mytoys.de/c/ratgeber.html"
+}, {
+  "label" : "Beratung & Inspiration - Ratgeber - Baby",
+  "url" : "http://www.mytoys.de/c/babyratgeber.html"
+}, {
+  "label" : "Beratung & Inspiration - Ratgeber - Mode",
+  "url" : "http://www.mytoys.de/c/ratgeber-kindermode.html"
+}, {
+  "label" : "Beratung & Inspiration - Ratgeber - PC/Games",
+  "url" : "http://www.mytoys.de/c/einkaufsberatung-pc-und-games-einstiegsseite.html"
+}, {
+  "label" : "Beratung & Inspiration - Ratgeber - Reisen mit Kind",
+  "url" : "http://www.mytoys.de/c/ratgeber-reisen.html"
+}, {
+  "label" : "Beratung & Inspiration - Ratgeber - Einschulung",
+  "url" : "http://www.mytoys.de/c/einkaufsberatung-schule-einstiegsseite.html"
+}, {
+  "label" : "Beratung & Inspiration - Ratgeber - Sport",
+  "url" : "http://www.mytoys.de/c/einkaufsberatung-sport-einstiegsseite.html"
+}, {
+  "label" : "Beratung & Inspiration - Kinderparty - Alle Kinderpartytipps",
+  "url" : "http://www.mytoys.de/c/kinderpartytipps.html"
+}, {
+  "label" : "Beratung & Inspiration - Kinderparty - Baby",
+  "url" : "http://www.mytoys.de/c/babyparty.html"
+}, {
+  "label" : "Beratung & Inspiration - Kinderparty - Cowboy- & Indianerparty",
+  "url" : "http://www.mytoys.de/c/cowboy-und-indianer-party.html"
+}, {
+  "label" : "Beratung & Inspiration - Kinderparty - Detektiv",
+  "url" : "http://www.mytoys.de/c/detektivparty.html"
+}, {
+  "label" : "Beratung & Inspiration - Kinderparty - Dschungel- & Zoo",
+  "url" : "http://www.mytoys.de/c/dschungel-und-zoo-party.html"
+}, {
+  "label" : "Beratung & Inspiration - Kinderparty - Einschulung",
+  "url" : "http://www.mytoys.de/c/partyanlaesse-einschulung.html"
+}, {
+  "label" : "Beratung & Inspiration - Kinderparty - Eisk\u00F6nigin ",
+  "url" : "http://www.mytoys.de/c/eiskoenigin-party.html"
+}, {
+  "label" : "Beratung & Inspiration - Kinderparty - Fu\u00DFballparty",
+  "url" : "http://www.mytoys.de/c/fussballparty.html"
+}, {
+  "label" : "Beratung & Inspiration - Kinderparty - Halloween",
+  "url" : "http://www.mytoys.de/c/halloweenparty.html"
+}, {
+  "label" : "Beratung & Inspiration - Kinderparty - Geburtstag",
+  "url" : "http://www.mytoys.de/c/kindergeburtstagsparty.html"
+}, {
+  "label" : "Beratung & Inspiration - Kinderparty - Kinderolympiade",
+  "url" : "http://www.mytoys.de/c/kinderolympiade.html"
+}, {
+  "label" : "Beratung & Inspiration - Kinderparty - Kindertag",
+  "url" : "http://www.mytoys.de/c/partyanlaesse-kindertag.html"
+}, {
+  "label" : "Beratung & Inspiration - Kinderparty - Ostern",
+  "url" : "http://www.mytoys.de/c/osterfest.html"
+}, {
+  "label" : "Beratung & Inspiration - Kinderparty - Piratenparty",
+  "url" : "http://www.mytoys.de/c/piratenparty.html"
+}, {
+  "label" : "Beratung & Inspiration - Kinderparty - Prinzessinnenparty",
+  "url" : "http://www.mytoys.de/c/prinzessinnenparty.html"
+}, {
+  "label" : "Beratung & Inspiration - Kinderparty - Ritterparty",
+  "url" : "http://www.mytoys.de/c/ritterparty.html"
+}, {
+  "label" : "Beratung & Inspiration - Kinderparty - Gartenparty",
+  "url" : "http://www.mytoys.de/c/gartenparty.html"
+}, {
+  "label" : "Beratung & Inspiration - Kinderparty - Star Wars Party",
+  "url" : "http://www.mytoys.de/c/star-wars-party.html"
+}, {
+  "label" : "Beratung & Inspiration - Kinderparty - Weihnachten",
+  "url" : "http://www.mytoys.de/c/weihnachtsparty.html"
+}, {
+  "label" : "Beratung & Inspiration - Lieblingsgeschenke - 15 Lieblingsgeschenke zum Geburtstag",
+  "url" : "http://www.mytoys.de/mkt/lieblingsgeschenke-zum-geburtstag"
+}, {
+  "label" : "Beratung & Inspiration - Lieblingsgeschenke - 15 Lieblingsgeschenke f\u00FCr die Schult\u00FCte",
+  "url" : "http://www.mytoys.de/mkt/lieblingsgeschenke-fuer-die-schultuete"
+}, {
+  "label" : "Beratung & Inspiration - Experten empfehlen - Alle Empfehlungen",
+  "url" : "http://www.mytoys.de/c/expertenempfehlungen.html"
+}, {
+  "label" : "Beratung & Inspiration - Experten empfehlen - 4 B\u00FCcher",
+  "url" : "http://www.mytoys.de/c/experten-stephanie-buecher-4-empfehlungen.html"
+}, {
+  "label" : "Beratung & Inspiration - Experten empfehlen - 4 KiGa- und Schulprodukte",
+  "url" : "http://www.mytoys.de/c/experten-angela-schule-basteln-4-empfehlungen.html"
+}, {
+  "label" : "Beratung & Inspiration - Experten empfehlen - 4 Spiele",
+  "url" : "http://www.mytoys.de/c/experten-saskia-spiele-puzzle-4-empfehlungen.html"
+}, {
+  "label" : "Beratung & Inspiration - Experten empfehlen - 4 Spielsachen",
+  "url" : "http://www.mytoys.de/c/experten-anett-tanja-bernhard-spielzeug-4-empfehlungen.html"
+}, {
+  "label" : "Beratung & Inspiration - Alles f\u00FCr die Windeltorte - \"Die Eisk\u00F6nigin\" Windeltorte",
+  "url" : "http://www.mytoys.de/mkt/eiskoenigin-windeltorte"
+}, {
+  "label" : "Beratung & Inspiration - Alles f\u00FCr die Windeltorte - Star Wars Windeltorte",
+  "url" : "http://www.mytoys.de/mkt/star-wars-windeltorte"
+}, {
+  "label" : "Beratung & Inspiration - Alles f\u00FCr die Windeltorte - Winnie Puuh Windeltorte",
+  "url" : "http://www.mytoys.de/mkt/winnie-puuh-windeltorte"
+}, {
+  "label" : "Beratung & Inspiration - Alles f\u00FCr die Windeltorte - Kunterbunte Windeltorte",
+  "url" : "http://www.mytoys.de/mkt/windeltorte-kunterbunt"
+}, {
+  "label" : "Beratung & Inspiration - Alles f\u00FCr die Windeltorte - F\u00FCr Jungen",
+  "url" : "http://www.mytoys.de/mkt/windeltorte-jungen"
+}, {
+  "label" : "Beratung & Inspiration - Alles f\u00FCr die Windeltorte - F\u00FCr M\u00E4dchen",
+  "url" : "http://www.mytoys.de/mkt/windeltorte-maedchen"
+}, {
+  "label" : "KombiShopping - mirapodo",
+  "url" : "http://www.mirapodo.de/"
+}, {
+  "label" : "KombiShopping - ambellis",
+  "url" : "http://www.ambellis.de"
+}, {
+  "label" : "KombiShopping - So funktioniert KombiShopping",
+  "url" : "http://www.mytoys.de/mkt/kombishopping"
+}, {
+  "label" : "Service - Hilfe",
+  "url" : "http://www.mytoys.de/c/faq.html"
+}, {
+  "label" : "Service - Mein Konto",
+  "url" : "https://checkout.mytoys.de/checkout/serviceOverview"
+}, {
+  "label" : "Service - Kontakt",
+  "url" : "http://www.mytoys.de/c/kontakt.html"
+}, {
+  "label" : "Service - Unsere Filialen",
+  "url" : "http://www.mytoys.de/c/filialen.html"
+}, {
+  "label" : "Service - myToys Blog",
+  "url" : "http://www.mytoys.de/my-blog/"
+}, {
+  "label" : "Service - myToys bei Facebook",
+  "url" : "https://www.facebook.com/myToys"
+}, {
+  "label" : "Service - Jobs bei myToys",
+  "url" : "https://mytoysgroup.jobs/"
+} ]

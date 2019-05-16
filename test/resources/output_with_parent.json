@@ -1,0 +1,28 @@
+[ {
+  "label" : "Baby & Kleinkind - 0-6 Monate",
+  "url" : "http://www.mytoys.de/0-6-months/"
+}, {
+  "label" : "Baby & Kleinkind - 7-12 Monate",
+  "url" : "http://www.mytoys.de/7-12-months/"
+}, {
+  "label" : "Baby & Kleinkind - 13-24 Monate",
+  "url" : "http://www.mytoys.de/13-24-months/"
+}, {
+  "label" : "Kindergarten - 2-3 Jahre",
+  "url" : "http://www.mytoys.de/24-47-months/"
+}, {
+  "label" : "Kindergarten - 4-5 Jahre",
+  "url" : "http://www.mytoys.de/48-71-months/"
+}, {
+  "label" : "Grundschule - 6-7 Jahre",
+  "url" : "http://www.mytoys.de/72-95-months/"
+}, {
+  "label" : "Grundschule - 8-9 Jahre",
+  "url" : "http://www.mytoys.de/96-119-months/"
+}, {
+  "label" : "Teenager - 10-12 Jahre",
+  "url" : "http://www.mytoys.de/120-155-months/"
+}, {
+  "label" : "Teenager - \u00DCber 12 Jahre",
+  "url" : "http://www.mytoys.de/over-156-months/"
+} ]

@@ -1,0 +1,891 @@
+{
+    "navigationEntries": [{
+        "type": "section",
+        "label": "Sortiment",
+        "children": [{
+            "type": "node",
+            "label": "Alter",
+            "children": [{
+                "type": "node",
+                "label": "Baby & Kleinkind",
+                "children": [{
+                    "type": "link",
+                    "label": "0-6 Monate",
+                    "url": "http:\/\/www.mytoys.de\/0-6-months\/"
+                }, {
+                    "type": "link",
+                    "label": "7-12 Monate",
+                    "url": "http:\/\/www.mytoys.de\/7-12-months\/"
+                }, {
+                    "type": "link",
+                    "label": "13-24 Monate",
+                    "url": "http:\/\/www.mytoys.de\/13-24-months\/"
+                }]
+            }, {
+                "type": "node",
+                "label": "Kindergarten",
+                "children": [{
+                    "type": "link",
+                    "label": "2-3 Jahre",
+                    "url": "http:\/\/www.mytoys.de\/24-47-months\/"
+                }, {
+                    "type": "link",
+                    "label": "4-5 Jahre",
+                    "url": "http:\/\/www.mytoys.de\/48-71-months\/"
+                }]
+            }, {
+                "type": "node",
+                "label": "Grundschule",
+                "children": [{
+                    "type": "link",
+                    "label": "6-7 Jahre",
+                    "url": "http:\/\/www.mytoys.de\/72-95-months\/"
+                }, {
+                    "type": "link",
+                    "label": "8-9 Jahre",
+                    "url": "http:\/\/www.mytoys.de\/96-119-months\/"
+                }]
+            }, {
+                "type": "node",
+                "label": "Teenager",
+                "children": [{
+                    "type": "link",
+                    "label": "10-12 Jahre",
+                    "url": "http:\/\/www.mytoys.de\/120-155-months\/"
+                }, {
+                    "type": "link",
+                    "label": "\u00dcber 12 Jahre",
+                    "url": "http:\/\/www.mytoys.de\/over-156-months\/"
+                }]
+            }]
+        }, {
+            "type": "node",
+            "label": "Kategorien",
+            "children": [{
+                "type": "node",
+                "label": "Baby & Schwangerschaft",
+                "children": [{
+                    "type": "link",
+                    "label": "Alles von Babymode",
+                    "url": "http:\/\/www.mytoys.de\/baby-schwangerschaft\/babymode\/"
+                }, {
+                    "type": "link",
+                    "label": "Alles f\u00fcr Unterwegs",
+                    "url": "http:\/\/www.mytoys.de\/baby-schwangerschaft\/alles-fuer-unterwegs\/"
+                }, {
+                    "type": "link",
+                    "label": "Babyalben & Kreatives",
+                    "url": "http:\/\/www.mytoys.de\/baby-schwangerschaft\/babyalben-kreatives\/"
+                }, {
+                    "type": "link",
+                    "label": "Babyern\u00e4hrung",
+                    "url": "http:\/\/www.mytoys.de\/baby-schwangerschaft\/babyernaehrung\/"
+                }, {
+                    "type": "link",
+                    "label": "Babym\u00f6bel",
+                    "url": "http:\/\/www.mytoys.de\/baby-schwangerschaft\/babymoebel\/"
+                }, {
+                    "type": "link",
+                    "label": "Babypflege",
+                    "url": "http:\/\/www.mytoys.de\/baby-schwangerschaft\/babypflege\/"
+                }, {
+                    "type": "link",
+                    "label": "Babyschlaf",
+                    "url": "http:\/\/www.mytoys.de\/baby-schwangerschaft\/babyschlaf\/"
+                }, {
+                    "type": "link",
+                    "label": "Babyspielzeug",
+                    "url": "http:\/\/www.mytoys.de\/baby-schwangerschaft\/babyspielzeug\/"
+                }, {
+                    "type": "link",
+                    "label": "Kindersitze & Babyschalen",
+                    "url": "http:\/\/www.mytoys.de\/baby-schwangerschaft\/kindersitze-babyschalen\/"
+                }, {
+                    "type": "link",
+                    "label": "Kinderwagen & Zubeh\u00f6r",
+                    "url": "http:\/\/www.mytoys.de\/baby-schwangerschaft\/kinderwagen-zubehoer\/"
+                }, {
+                    "type": "link",
+                    "label": "Schnuller & Zubeh\u00f6r",
+                    "url": "http:\/\/www.mytoys.de\/baby-schwangerschaft\/schnuller-zubehoer\/"
+                }, {
+                    "type": "link",
+                    "label": "Sicherheit f\u00fcr's Baby",
+                    "url": "http:\/\/www.mytoys.de\/baby-schwangerschaft\/sicherheit-fuers-baby\/"
+                }, {
+                    "type": "link",
+                    "label": "Stillen & Pflege f\u00fcr die Mama",
+                    "url": "http:\/\/www.mytoys.de\/baby-schwangerschaft\/stillen-pflege-fuer-die-mama\/"
+                }, {
+                    "type": "link",
+                    "label": "Stillmode",
+                    "url": "http:\/\/www.mytoys.de\/baby-schwangerschaft\/stillmode\/"
+                }, {
+                    "type": "link",
+                    "label": "Umstandsmode",
+                    "url": "http:\/\/www.mytoys.de\/baby-schwangerschaft\/umstandsmode\/"
+                }]
+            }, {
+                "type": "node",
+                "label": "Spielzeug & Spiele",
+                "children": [{
+                    "type": "link",
+                    "label": "Alles von Spielzeug & Spiele",
+                    "url": "http:\/\/www.mytoys.de\/spielzeug-spiele\/"
+                }, {
+                    "type": "link",
+                    "label": "Autos, Fahrzeuge & Flieger",
+                    "url": "http:\/\/www.mytoys.de\/spielzeug-spiele\/autos-fahrzeuge-flieger\/"
+                }, {
+                    "type": "link",
+                    "label": "Baby- & Kleinkindspielzeug",
+                    "url": "http:\/\/www.mytoys.de\/spielzeug-spiele\/baby-kleinkindspielzeug\/"
+                }, {
+                    "type": "link",
+                    "label": "Bauen & Konstruieren",
+                    "url": "http:\/\/www.mytoys.de\/spielzeug-spiele\/bauen-konstruieren\/"
+                }, {
+                    "type": "link",
+                    "label": "Experimentieren & Entdecken",
+                    "url": "http:\/\/www.mytoys.de\/spielzeug-spiele\/experimentieren-entdecken\/"
+                }, {
+                    "type": "link",
+                    "label": "Kinderfahrzeuge",
+                    "url": "http:\/\/www.mytoys.de\/spielzeug-spiele\/kinderfahrzeuge\/"
+                }, {
+                    "type": "link",
+                    "label": "Kinderparty",
+                    "url": "http:\/\/www.mytoys.de\/spielzeug-spiele\/kinderparty-zubehoer\/"
+                }, {
+                    "type": "link",
+                    "label": "Kost\u00fcme & Rollenspielzeug",
+                    "url": "http:\/\/www.mytoys.de\/spielzeug-spiele\/kostueme-rollenspielzeug\/"
+                }, {
+                    "type": "link",
+                    "label": "Kuscheltiere & Teddys",
+                    "url": "http:\/\/www.mytoys.de\/spielzeug-spiele\/kuscheltiere-teddys\/"
+                }, {
+                    "type": "link",
+                    "label": "K\u00fcche & Kaufladen",
+                    "url": "http:\/\/www.mytoys.de\/spielzeug-spiele\/kueche-kaufladen\/"
+                }, {
+                    "type": "link",
+                    "label": "Lernspielzeug",
+                    "url": "http:\/\/www.mytoys.de\/spielzeug-spiele\/lernspielzeug\/"
+                }, {
+                    "type": "link",
+                    "label": "Musikinstrumente",
+                    "url": "http:\/\/www.mytoys.de\/spielzeug-spiele\/musikinstrumente\/"
+                }, {
+                    "type": "link",
+                    "label": "Puppen & Puppenzubeh\u00f6r",
+                    "url": "http:\/\/www.mytoys.de\/spielzeug-spiele\/puppen-puppenzubehoer\/"
+                }, {
+                    "type": "link",
+                    "label": "Puzzle",
+                    "url": "http:\/\/www.mytoys.de\/spielzeug-spiele\/puzzle\/"
+                }, {
+                    "type": "link",
+                    "label": "Spiele",
+                    "url": "http:\/\/www.mytoys.de\/spielzeug-spiele\/spiele\/"
+                }]
+            }, {
+                "type": "node",
+                "label": "Mode & Schuhe",
+                "children": [{
+                    "type": "link",
+                    "label": "Alles von Mode & Schuhe",
+                    "url": "http:\/\/www.mytoys.de\/mode-schuhe\/"
+                }, {
+                    "type": "link",
+                    "label": "Accessoires",
+                    "url": "http:\/\/www.mytoys.de\/mode-schuhe\/accessoires\/"
+                }, {
+                    "type": "link",
+                    "label": "Bademode",
+                    "url": "http:\/\/www.mytoys.de\/mode-schuhe\/bademode\/"
+                }, {
+                    "type": "link",
+                    "label": "Hosen, Jeans & Leggings",
+                    "url": "http:\/\/www.mytoys.de\/mode-schuhe\/hosen-jeans-leggings\/"
+                }, {
+                    "type": "link",
+                    "label": "Jacken & M\u00e4ntel",
+                    "url": "http:\/\/www.mytoys.de\/mode-schuhe\/jacken-maentel\/"
+                }, {
+                    "type": "link",
+                    "label": "Kleider & R\u00f6cke",
+                    "url": "http:\/\/www.mytoys.de\/mode-schuhe\/kleider-roecke\/"
+                }, {
+                    "type": "link",
+                    "label": "M\u00fctzen, H\u00fcte & Caps",
+                    "url": "http:\/\/www.mytoys.de\/mode-schuhe\/muetzen-huete-caps\/"
+                }, {
+                    "type": "link",
+                    "label": "Oberteile",
+                    "url": "http:\/\/www.mytoys.de\/mode-schuhe\/oberteile\/"
+                }, {
+                    "type": "link",
+                    "label": "Regenbekleidung",
+                    "url": "http:\/\/www.mytoys.de\/mode-schuhe\/regenbekleidung\/"
+                }, {
+                    "type": "link",
+                    "label": "Rucks\u00e4cke & Taschen",
+                    "url": "http:\/\/www.mytoys.de\/mode-schuhe\/rucksaecke-taschen\/"
+                }, {
+                    "type": "link",
+                    "label": "Schnee- & Skibeleidung",
+                    "url": "http:\/\/www.mytoys.de\/mode-schuhe\/schnee-skibekleidung\/"
+                }, {
+                    "type": "link",
+                    "label": "Kinderschuhe",
+                    "url": "http:\/\/www.mytoys.de\/mode-schuhe\/schuhe\/"
+                }, {
+                    "type": "link",
+                    "label": "Sportbekleidung",
+                    "url": "http:\/\/www.mytoys.de\/mode-schuhe\/sportbekleidung\/"
+                }, {
+                    "type": "link",
+                    "label": "Str\u00fcmpfe & Strumpfhosen",
+                    "url": "http:\/\/www.mytoys.de\/mode-schuhe\/struempfe-strumpfhosen\/"
+                }, {
+                    "type": "link",
+                    "label": "W\u00e4sche",
+                    "url": "http:\/\/www.mytoys.de\/mode-schuhe\/waesche\/"
+                }]
+            }, {
+                "type": "node",
+                "label": "Basteln & Malen",
+                "children": [{
+                    "type": "link",
+                    "label": "Alles von Basteln & Malen",
+                    "url": "http:\/\/www.mytoys.de\/basteln-malen\/"
+                }, {
+                    "type": "link",
+                    "label": "Bastel- & Kreativsets",
+                    "url": "http:\/\/www.mytoys.de\/basteln-malen\/bastel-kreativsets\/"
+                }, {
+                    "type": "link",
+                    "label": "Bastelb\u00fccher",
+                    "url": "http:\/\/www.mytoys.de\/basteln-malen\/bastelbuecher\/"
+                }, {
+                    "type": "link",
+                    "label": "Bastelmaterial & Zubeh\u00f6r",
+                    "url": "http:\/\/www.mytoys.de\/basteln-malen\/bastelmaterial-zubehoer\/"
+                }, {
+                    "type": "link",
+                    "label": "Papeterie",
+                    "url": "http:\/\/www.mytoys.de\/basteln-malen\/papeterie\/"
+                }, {
+                    "type": "link",
+                    "label": "Stempel & Sticker",
+                    "url": "http:\/\/www.mytoys.de\/basteln-malen\/stempel-sticker\/"
+                }, {
+                    "type": "link",
+                    "label": "Stifte & Farben",
+                    "url": "http:\/\/www.mytoys.de\/basteln-malen\/stifte-farben\/"
+                }]
+            }, {
+                "type": "node",
+                "label": "Multimedia & B\u00fccher",
+                "children": [{
+                    "type": "link",
+                    "label": "Alles von Multimedia & B\u00fccher",
+                    "url": "http:\/\/www.mytoys.de\/multimedia-buecher\/"
+                }, {
+                    "type": "link",
+                    "label": "B\u00fccher",
+                    "url": "http:\/\/www.mytoys.de\/multimedia-buecher\/buecher\/"
+                }, {
+                    "type": "link",
+                    "label": "CD-Player, MP3-Player & Anlagen",
+                    "url": "http:\/\/www.mytoys.de\/multimedia-buecher\/cd-player-mp3-player-anlagen\/"
+                }, {
+                    "type": "link",
+                    "label": "CDs & MCs",
+                    "url": "http:\/\/www.mytoys.de\/multimedia-buecher\/cds-mcs\/"
+                }, {
+                    "type": "link",
+                    "label": "DVDs & BLU-RAYs",
+                    "url": "http:\/\/www.mytoys.de\/multimedia-buecher\/dvds-blu-rays\/"
+                }, {
+                    "type": "link",
+                    "label": "Foto-& Videokameras",
+                    "url": "http:\/\/www.mytoys.de\/multimedia-buecher\/foto-videokameras\/"
+                }, {
+                    "type": "link",
+                    "label": "Konsolen & PC Software",
+                    "url": "http:\/\/www.mytoys.de\/multimedia-buecher\/konsolen-pc-zubehoer\/"
+                }, {
+                    "type": "link",
+                    "label": "Tablet PCs & Smartphones",
+                    "url": "http:\/\/www.mytoys.de\/multimedia-buecher\/tablet-pcs-smartphones\/"
+                }, {
+                    "type": "link",
+                    "label": "Videospiele (PC & Konsole)",
+                    "url": "http:\/\/www.mytoys.de\/multimedia-buecher\/videospiele-pc-konsole\/"
+                }, {
+                    "type": "link",
+                    "label": "Wecker",
+                    "url": "http:\/\/www.mytoys.de\/multimedia-buecher\/wecker\/"
+                }, {
+                    "type": "link",
+                    "label": "Zubeh\u00f6r",
+                    "url": "http:\/\/www.mytoys.de\/multimedia-buecher\/zubehoer\/"
+                }]
+            }, {
+                "type": "node",
+                "label": "Schule & Lernen",
+                "children": [{
+                    "type": "link",
+                    "label": "Alles von Schule & Lernen",
+                    "url": "http:\/\/www.mytoys.de\/schule-lernen\/"
+                }, {
+                    "type": "link",
+                    "label": "Lernspiele & Lernhilfen",
+                    "url": "http:\/\/www.mytoys.de\/schule-lernen\/lernspiele-lernhilfen\/"
+                }, {
+                    "type": "link",
+                    "label": "Schreibtische & -utensilien",
+                    "url": "http:\/\/www.mytoys.de\/schule-lernen\/schreibtische-utensilien\/"
+                }, {
+                    "type": "link",
+                    "label": "Schulbedarf",
+                    "url": "http:\/\/www.mytoys.de\/schule-lernen\/schulbedarf\/"
+                }, {
+                    "type": "link",
+                    "label": "Schulb\u00fccher",
+                    "url": "http:\/\/www.mytoys.de\/schule-lernen\/schulbuecher\/"
+                }, {
+                    "type": "link",
+                    "label": "Schulranzen & Zubeh\u00f6r",
+                    "url": "http:\/\/www.mytoys.de\/schule-lernen\/schulranzen-zubehoer\/"
+                }, {
+                    "type": "link",
+                    "label": "Stifte & Schreibger\u00e4te",
+                    "url": "http:\/\/www.mytoys.de\/schule-lernen\/stifte-schreibgeraete\/"
+                }]
+            }, {
+                "type": "node",
+                "label": "Sport & Garten",
+                "children": [{
+                    "type": "link",
+                    "label": "Alles von Sport & Garten",
+                    "url": "http:\/\/www.mytoys.de\/sport-garten\/"
+                }, {
+                    "type": "link",
+                    "label": "Camping & Outdoor",
+                    "url": "http:\/\/www.mytoys.de\/sport-garten\/camping-outdoor\/"
+                }, {
+                    "type": "link",
+                    "label": "Fahrr\u00e4der & Zubeh\u00f6r",
+                    "url": "http:\/\/www.mytoys.de\/sport-garten\/fahrraeder-zubehoer\/"
+                }, {
+                    "type": "link",
+                    "label": "Gartenm\u00f6bel & Accessoires",
+                    "url": "http:\/\/www.mytoys.de\/sport-garten\/gartenmoebel-accessoires\/"
+                }, {
+                    "type": "link",
+                    "label": "Gartenspielzeug",
+                    "url": "http:\/\/www.mytoys.de\/sport-garten\/gartenspielzeug\/"
+                }, {
+                    "type": "link",
+                    "label": "Kinderfahrzeuge",
+                    "url": "http:\/\/www.mytoys.de\/sport-garten\/kinderfahrzeuge\/"
+                }, {
+                    "type": "link",
+                    "label": "Kletter- und Spielger\u00e4te",
+                    "url": "http:\/\/www.mytoys.de\/sport-garten\/kletter-und-spielgeraete\/"
+                }, {
+                    "type": "link",
+                    "label": "Sand- & Wasserspa\u00df",
+                    "url": "http:\/\/www.mytoys.de\/sport-garten\/sand-wasserspass\/"
+                }, {
+                    "type": "link",
+                    "label": "Sportbekleidung & Sportschuhe",
+                    "url": "http:\/\/www.mytoys.de\/mode-schuhe\/sportbekleidung\/"
+                }, {
+                    "type": "link",
+                    "label": "Sportzubeh\u00f6r & Sporttaschen",
+                    "url": "http:\/\/www.mytoys.de\/sport-garten\/sportzubehoer-sporttaschen\/"
+                }]
+            }, {
+                "type": "node",
+                "label": "Kinderzimmer & Wohnen",
+                "children": [{
+                    "type": "link",
+                    "label": "Alles von Kinderzimmer & Wohnen",
+                    "url": "http:\/\/www.mytoys.de\/kinderzimmer-wohnen\/"
+                }, {
+                    "type": "link",
+                    "label": "Badaccessoires",
+                    "url": "http:\/\/www.mytoys.de\/kinderzimmer-wohnen\/badaccessoires\/"
+                }, {
+                    "type": "link",
+                    "label": "Betten & Zubeh\u00f6r",
+                    "url": "http:\/\/www.mytoys.de\/kinderzimmer-wohnen\/betten-zubehoer\/"
+                }, {
+                    "type": "link",
+                    "label": "Geschirr & Besteck",
+                    "url": "http:\/\/www.mytoys.de\/kinderzimmer-wohnen\/geschirr-besteck\/\""
+                }, {
+                    "type": "link",
+                    "label": "Haushaltshelfer",
+                    "url": "http:\/\/www.mytoys.de\/kinderzimmer-wohnen\/haushaltshelfer\/"
+                }, {
+                    "type": "link",
+                    "label": "Heimtextilien",
+                    "url": "http:\/\/www.mytoys.de\/kinderzimmer-wohnen\/heimtextilien\/"
+                }, {
+                    "type": "link",
+                    "label": "Kleinm\u00f6bel",
+                    "url": "http:\/\/www.mytoys.de\/kinderzimmer-wohnen\/kleinmoebel\/"
+                }, {
+                    "type": "link",
+                    "label": "Komplettzimmer",
+                    "url": "http:\/\/www.mytoys.de\/kinderzimmer-wohnen\/komplettzimmer\/"
+                }, {
+                    "type": "link",
+                    "label": "Leuchten",
+                    "url": "http:\/\/www.mytoys.de\/kinderzimmer-wohnen\/leuchten\/"
+                }, {
+                    "type": "link",
+                    "label": "Matratzen & Federholzrahmen",
+                    "url": "http:\/\/www.mytoys.de\/kinderzimmer-wohnen\/matratzen-federholzrahmen\/"
+                }, {
+                    "type": "link",
+                    "label": "Ordnen & Aufbewahren",
+                    "url": "http:\/\/www.mytoys.de\/kinderzimmer-wohnen\/ordnen-aufbewahren\/"
+                }, {
+                    "type": "link",
+                    "label": "Schr\u00e4nke & Zubeh\u00f6r",
+                    "url": "http:\/\/www.mytoys.de\/kinderzimmer-wohnen\/schraenke-zubehoer\/"
+                }, {
+                    "type": "link",
+                    "label": "Schulm\u00f6bel",
+                    "url": "http:\/\/www.mytoys.de\/kinderzimmer-wohnen\/schulmoebel\/"
+                }, {
+                    "type": "link",
+                    "label": "Tische & Sitzm\u00f6bel",
+                    "url": "http:\/\/www.mytoys.de\/kinderzimmer-wohnen\/sitzmoebel\/"
+                }, {
+                    "type": "link",
+                    "label": "Wohndeko & Accessoires",
+                    "url": "http:\/\/www.mytoys.de\/kinderzimmer-wohnen\/wohndeko-accessoires\/"
+                }]
+            }]
+        }, {
+            "type": "node",
+            "label": "Lieblingsstars",
+            "children": [{
+                "type": "link",
+                "label": "Paw Patrol",
+                "url": "http:\/\/www.mytoys.de\/paw-patrol\/"
+            }, {
+                "type": "link",
+                "label": "Disney Cars",
+                "url": "http:\/\/www.mytoys.de\/disney-cars\/"
+            }, {
+                "type": "link",
+                "label": "Dragons",
+                "url": "http:\/\/www.mytoys.de\/dragons\/"
+            }, {
+                "type": "link",
+                "label": "Eisk\u00f6nigin",
+                "url": "http:\/\/www.mytoys.de\/disney-die-eiskoenigin\/"
+            }, {
+                "type": "link",
+                "label": "Feuerwehrmann Sam",
+                "url": "http:\/\/www.mytoys.de\/feuerwehrmann-sam\/"
+            }, {
+                "type": "link",
+                "label": "Hello Kitty",
+                "url": "http:\/\/www.mytoys.de\/hello-kitty\/"
+            }, {
+                "type": "link",
+                "label": "Marvel",
+                "url": "http:\/\/www.mytoys.de\/marvel-avengers_marvel-heroes\/"
+            }, {
+                "type": "link",
+                "label": "MiaMe",
+                "url": "http:\/\/www.mytoys.de\/mia-me\/"
+            }, {
+                "type": "link",
+                "label": "Minnie Mouse",
+                "url": "http:\/\/www.mytoys.de\/disney-minnie-mouse\/"
+            }, {
+                "type": "link",
+                "label": "Minions",
+                "url": "http:\/\/www.mytoys.de\/minions\/"
+            }, {
+                "type": "link",
+                "label": "Monster High",
+                "url": "http:\/\/www.mytoys.de\/monster-high\/"
+            }, {
+                "type": "link",
+                "label": "Top Model",
+                "url": "http:\/\/www.mytoys.de\/topmodel\/"
+            }, {
+                "type": "link",
+                "label": "Disney Princess",
+                "url": "http:\/\/www.mytoys.de\/license-disney-princess\/"
+            }, {
+                "type": "link",
+                "label": "Star Wars",
+                "url": "http:\/\/www.mytoys.de\/star-wars\/"
+            }, {
+                "type": "link",
+                "label": "Violetta",
+                "url": "http:\/\/www.mytoys.de\/disney-violetta\/"
+            }, {
+                "type": "link",
+                "label": "WinniePuuh",
+                "url": "http:\/\/www.mytoys.de\/disney-winnie-puuh\/"
+            }, {
+                "type": "link",
+                "label": "Yakari",
+                "url": "http:\/\/www.mytoys.de\/yakari\/"
+            }]
+        }, {
+            "type": "node",
+            "label": "Top-Marken",
+            "children": [{
+                "type": "link",
+                "label": "4YOU",
+                "url": "http:\/\/www.mytoys.de\/4you\/"
+            }, {
+                "type": "link",
+                "label": "adidas",
+                "url": "http:\/\/www.mytoys.de\/adidas_adidas-neo_adidas-performance\/"
+            }, {
+                "type": "link",
+                "label": "Barbie",
+                "url": "http:\/\/www.mytoys.de\/license-barbie\/"
+            }, {
+                "type": "link",
+                "label": "MaxiCosi",
+                "url": "http:\/\/www.mytoys.de\/maxi-cosi\/"
+            }, {
+                "type": "link",
+                "label": "Nintendo",
+                "url": "http:\/\/www.mytoys.de\/nintendo\/"
+            }, {
+                "type": "link",
+                "label": "Playmobil",
+                "url": "http:\/\/www.mytoys.de\/playmobil-sub\/"
+            }, {
+                "type": "link",
+                "label": "Fisher-Price",
+                "url": "http:\/\/www.mytoys.de\/fisher-price\/"
+            }, {
+                "type": "link",
+                "label": "Ravensburger",
+                "url": "http:\/\/www.mytoys.de\/ravensburger\/"
+            }, {
+                "type": "link",
+                "label": "vTech",
+                "url": "http:\/\/www.mytoys.de\/vtech\/"
+            }, {
+                "type": "link",
+                "label": "Stabilo",
+                "url": "http:\/\/www.mytoys.de\/stabilo\/"
+            }, {
+                "type": "link",
+                "label": "Stokke",
+                "url": "http:\/\/www.mytoys.de\/stokke\/"
+            }, {
+                "type": "link",
+                "label": "Lego",
+                "url": "http:\/\/www.mytoys.de\/lego-sub\/"
+            }, {
+                "type": "link",
+                "label": "sOliver",
+                "url": "http:\/\/www.mytoys.de\/s-oliver\/"
+            }, {
+                "type": "link",
+                "label": "Hudora",
+                "url": "http:\/\/www.mytoys.de\/hudora\/"
+            }, {
+                "type": "link",
+                "label": "Jack Wolfskin",
+                "url": "http:\/\/www.mytoys.de\/jack-wolfskin\/"
+            }, {
+                "type": "link",
+                "label": "Spiegelburg",
+                "url": "http:\/\/www.mytoys.de\/die-spiegelburg\/"
+            }, {
+                "type": "link",
+                "label": "Esprit",
+                "url": "ttp:\/\/www.mytoys.de\/esprit\/"
+            }]
+        }]
+    }, {
+        "type": "section",
+        "label": "Schn\u00e4ppchen",
+        "children": [{
+            "type": "link",
+            "label": "Alle Angebote im \u00dcberblick",
+            "url": "http:\/\/www.mytoys.de\/sale\/"
+        }, {
+            "type": "link",
+            "label": "Baby Schn\u00e4ppchen",
+            "url": "http:\/\/www.mytoys.de\/baby-schwangerschaft\/sale\/"
+        }, {
+            "type": "link",
+            "label": "Spielzeug & Spiele Sale",
+            "url": "http:\/\/www.mytoys.de\/spielzeug-spiele\/sale\/"
+        }, {
+            "type": "link",
+            "label": "Mode & Schuhe Sale",
+            "url": "http:\/\/www.mytoys.de\/mode-schuhe\/sale\/"
+        }, {
+            "type": "link",
+            "label": "Artikel aus der Werbung",
+            "url": "http:\/\/www.mytoys.de\/14e\/"
+        }, {
+            "type": "link",
+            "label": "Knaller der Woche",
+            "url": "http:\/\/www.mytoys.de\/mkt\/knaller-der-woche"
+        }]
+    }, {
+        "type": "section",
+        "label": "Beratung & Inspiration",
+        "children": [{
+            "type": "node",
+            "label": "Geschenketipps",
+            "children": [{
+                "type": "link",
+                "label": "Geschenketipps f\u00fcr M\u00e4dchen",
+                "url": "http:\/\/www.mytoys.de\/weiblich\/geschenke\/"
+            }, {
+                "type": "link",
+                "label": "Geschenketipps f\u00fcr Jungen",
+                "url": "http:\/\/www.mytoys.de\/maennlich\/geschenke\/"
+            }]
+        }, {
+            "type": "node",
+            "label": "Ratgeber",
+            "children": [{
+                "type": "link",
+                "label": "Alle Ratgeber",
+                "url": "http:\/\/www.mytoys.de\/c\/ratgeber.html"
+            }, {
+                "type": "link",
+                "label": "Baby",
+                "url": "http:\/\/www.mytoys.de\/c\/babyratgeber.html"
+            }, {
+                "type": "link",
+                "label": "Mode",
+                "url": "http:\/\/www.mytoys.de\/c\/ratgeber-kindermode.html"
+            }, {
+                "type": "link",
+                "label": "PC\/Games",
+                "url": "http:\/\/www.mytoys.de\/c\/einkaufsberatung-pc-und-games-einstiegsseite.html"
+            }, {
+                "type": "link",
+                "label": "Reisen mit Kind",
+                "url": "http:\/\/www.mytoys.de\/c\/ratgeber-reisen.html"
+            }, {
+                "type": "link",
+                "label": "Einschulung",
+                "url": "http:\/\/www.mytoys.de\/c\/einkaufsberatung-schule-einstiegsseite.html"
+            }, {
+                "type": "link",
+                "label": "Sport",
+                "url": "http:\/\/www.mytoys.de\/c\/einkaufsberatung-sport-einstiegsseite.html"
+            }]
+        }, {
+            "type": "node",
+            "label": "Kinderparty",
+            "children": [{
+                "type": "link",
+                "label": "Alle Kinderpartytipps",
+                "url": "http:\/\/www.mytoys.de\/c\/kinderpartytipps.html"
+            }, {
+                "type": "link",
+                "label": "Baby",
+                "url": "http:\/\/www.mytoys.de\/c\/babyparty.html"
+            }, {
+                "type": "link",
+                "label": "Cowboy- & Indianerparty",
+                "url": "http:\/\/www.mytoys.de\/c\/cowboy-und-indianer-party.html"
+            }, {
+                "type": "link",
+                "label": "Detektiv",
+                "url": "http:\/\/www.mytoys.de\/c\/detektivparty.html"
+            }, {
+                "type": "link",
+                "label": "Dschungel- & Zoo",
+                "url": "http:\/\/www.mytoys.de\/c\/dschungel-und-zoo-party.html"
+            }, {
+                "type": "link",
+                "label": "Einschulung",
+                "url": "http:\/\/www.mytoys.de\/c\/partyanlaesse-einschulung.html"
+            }, {
+                "type": "link",
+                "label": "Eisk\u00f6nigin ",
+                "url": "http:\/\/www.mytoys.de\/c\/eiskoenigin-party.html"
+            }, {
+                "type": "link",
+                "label": "Fu\u00dfballparty",
+                "url": "http:\/\/www.mytoys.de\/c\/fussballparty.html"
+            }, {
+                "type": "link",
+                "label": "Halloween",
+                "url": "http:\/\/www.mytoys.de\/c\/halloweenparty.html"
+            }, {
+                "type": "link",
+                "label": "Geburtstag",
+                "url": "http:\/\/www.mytoys.de\/c\/kindergeburtstagsparty.html"
+            }, {
+                "type": "link",
+                "label": "Kinderolympiade",
+                "url": "http:\/\/www.mytoys.de\/c\/kinderolympiade.html"
+            }, {
+                "type": "link",
+                "label": "Kindertag",
+                "url": "http:\/\/www.mytoys.de\/c\/partyanlaesse-kindertag.html"
+            }, {
+                "type": "link",
+                "label": "Ostern",
+                "url": "http:\/\/www.mytoys.de\/c\/osterfest.html"
+            }, {
+                "type": "link",
+                "label": "Piratenparty",
+                "url": "http:\/\/www.mytoys.de\/c\/piratenparty.html"
+            }, {
+                "type": "link",
+                "label": "Prinzessinnenparty",
+                "url": "http:\/\/www.mytoys.de\/c\/prinzessinnenparty.html"
+            }, {
+                "type": "link",
+                "label": "Ritterparty",
+                "url": "http:\/\/www.mytoys.de\/c\/ritterparty.html"
+            }, {
+                "type": "link",
+                "label": "Gartenparty",
+                "url": "http:\/\/www.mytoys.de\/c\/gartenparty.html"
+            }, {
+                "type": "link",
+                "label": "Star Wars Party",
+                "url": "http:\/\/www.mytoys.de\/c\/star-wars-party.html"
+            }, {
+                "type": "link",
+                "label": "Weihnachten",
+                "url": "http:\/\/www.mytoys.de\/c\/weihnachtsparty.html"
+            }]
+        }, {
+            "type": "node",
+            "label": "Lieblingsgeschenke",
+            "children": [{
+                "type": "link",
+                "label": "15 Lieblingsgeschenke zum Geburtstag",
+                "url": "http:\/\/www.mytoys.de\/mkt\/lieblingsgeschenke-zum-geburtstag"
+            }, {
+                "type": "link",
+                "label": "15 Lieblingsgeschenke f\u00fcr die Schult\u00fcte",
+                "url": "http:\/\/www.mytoys.de\/mkt\/lieblingsgeschenke-fuer-die-schultuete"
+            }]
+        }, {
+            "type": "node",
+            "label": "Experten empfehlen",
+            "children": [{
+                "type": "link",
+                "label": "Alle Empfehlungen",
+                "url": "http:\/\/www.mytoys.de\/c\/expertenempfehlungen.html"
+            }, {
+                "type": "link",
+                "label": "4 B\u00fccher",
+                "url": "http:\/\/www.mytoys.de\/c\/experten-stephanie-buecher-4-empfehlungen.html"
+            }, {
+                "type": "link",
+                "label": "4 KiGa- und Schulprodukte",
+                "url": "http:\/\/www.mytoys.de\/c\/experten-angela-schule-basteln-4-empfehlungen.html"
+            }, {
+                "type": "link",
+                "label": "4 Spiele",
+                "url": "http:\/\/www.mytoys.de\/c\/experten-saskia-spiele-puzzle-4-empfehlungen.html"
+            }, {
+                "type": "link",
+                "label": "4 Spielsachen",
+                "url": "http:\/\/www.mytoys.de\/c\/experten-anett-tanja-bernhard-spielzeug-4-empfehlungen.html"
+            }]
+        }, {
+            "type": "node",
+            "label": "Alles f\u00fcr die Windeltorte",
+            "children": [{
+                "type": "link",
+                "label": "\"Die Eisk\u00f6nigin\" Windeltorte",
+                "url": "http:\/\/www.mytoys.de\/mkt\/eiskoenigin-windeltorte"
+            }, {
+                "type": "link",
+                "label": "Star Wars Windeltorte",
+                "url": "http:\/\/www.mytoys.de\/mkt\/star-wars-windeltorte"
+            }, {
+                "type": "link",
+                "label": "Winnie Puuh Windeltorte",
+                "url": "http:\/\/www.mytoys.de\/mkt\/winnie-puuh-windeltorte"
+            }, {
+                "type": "link",
+                "label": "Kunterbunte Windeltorte",
+                "url": "http:\/\/www.mytoys.de\/mkt\/windeltorte-kunterbunt"
+            }, {
+                "type": "link",
+                "label": "F\u00fcr Jungen",
+                "url": "http:\/\/www.mytoys.de\/mkt\/windeltorte-jungen"
+            }, {
+                "type": "link",
+                "label": "F\u00fcr M\u00e4dchen",
+                "url": "http:\/\/www.mytoys.de\/mkt\/windeltorte-maedchen"
+            }]
+        }]
+    }, {
+        "type": "section",
+        "label": "KombiShopping",
+        "children": [{
+            "type": "external-link",
+            "label": "mirapodo",
+            "url": "http:\/\/www.mirapodo.de\/"
+        }, {
+            "type": "external-link",
+            "label": "ambellis",
+            "url": "http:\/\/www.ambellis.de"
+        }, {
+            "type": "link",
+            "label": "So funktioniert KombiShopping",
+            "url": "http:\/\/www.mytoys.de\/mkt\/kombishopping"
+        }]
+    }, {
+        "type": "section",
+        "label": "Service",
+        "children": [{
+            "type": "link",
+            "label": "Hilfe",
+            "url": "http:\/\/www.mytoys.de\/c\/faq.html"
+        }, {
+            "type": "link",
+            "label": "Mein Konto",
+            "url": "https:\/\/checkout.mytoys.de\/checkout\/serviceOverview"
+        }, {
+            "type": "link",
+            "label": "Kontakt",
+            "url": "http:\/\/www.mytoys.de\/c\/kontakt.html"
+        }, {
+            "type": "link",
+            "label": "Unsere Filialen",
+            "url": "http:\/\/www.mytoys.de\/c\/filialen.html"
+        }, {
+            "type": "external-link",
+            "label": "myToys Blog",
+            "url": "http:\/\/www.mytoys.de\/my-blog\/"
+        }, {
+            "type": "external-link",
+            "label": "myToys bei Facebook",
+            "url": "https:\/\/www.facebook.com\/myToys"
+        }, {
+            "type": "external-link",
+            "label": "Jobs bei myToys",
+            "url": "https:\/\/mytoysgroup.jobs\/"
+        }]
+    }]
+}
