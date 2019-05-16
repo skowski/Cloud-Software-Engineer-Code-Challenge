@@ -147,7 +147,8 @@ exceptional cases, like wrong input parameter, and do error handling with Try-Mo
 do not take too long
 - Some problems with metrics to JMX in tests, so diasbled for testing
 - Trouble with automatic conversion of URL string, slashes are converted, did not solve that
-- Add some more logging
+- Add some more logging and log to file or log collector
+- Build puts some warnings for Ktor experimental features; should be eliminated
 
 
 ## Resume
